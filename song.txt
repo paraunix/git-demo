@@ -1,4 +1,3 @@
 sword
 new word
-
 check gui
